@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# VS Code and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+
+# Generated data and reports
+pobrane_pdf/
+diagnostyka_resideo/
+zestawienie_wydatkow.csv
+raport_wydatkow.html
